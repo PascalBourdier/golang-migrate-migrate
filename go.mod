@@ -9,7 +9,7 @@ require (
 	github.com/ClickHouse/clickhouse-go v1.4.3
 	github.com/aws/aws-sdk-go v1.49.6
 	github.com/cenkalti/backoff/v4 v4.1.2
-	github.com/cockroachdb/cockroach-go/v2 v2.1.1
+	github.com/cockroachdb/cockroach-go/v2 v2.0.8
 	github.com/dhui/dktest v0.4.6
 	github.com/docker/docker v28.3.3+incompatible
 	github.com/fsouza/fake-gcs-server v1.17.0
@@ -17,14 +17,12 @@ require (
 	github.com/gobuffalo/here v0.6.0
 	github.com/gocql/gocql v0.0.0-20210515062232-b7ef815b4556
 	github.com/google/go-github/v39 v39.2.0
-	github.com/jackc/pgconn v1.14.3
-	github.com/jackc/pgerrcode v0.0.0-20220416144525-469b46aa5efa
-	github.com/jackc/pgx/v4 v4.18.2
-	github.com/jackc/pgx/v5 v5.7.6
+	github.com/jackc/pgerrcode v0.0.0-20250907135507-afb5586c32a6
+	github.com/jackc/pgx/v5 v5.8.0
 	github.com/ktrysmt/go-bitbucket v0.6.4
 	github.com/lib/pq v1.10.9
 	github.com/markbates/pkger v0.15.1
-	github.com/mattn/go-sqlite3 v1.14.22
+	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/microsoft/go-mssqldb v1.0.0
 	github.com/mutecomm/go-sqlcipher/v4 v4.4.0
 	github.com/nakagami/firebirdsql v0.0.0-20190310045651-3c02a58cfed8
@@ -142,12 +140,8 @@ require (
 	github.com/gorilla/mux v1.7.4 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
-	github.com/jackc/chunkreader/v2 v2.0.1 // indirect
-	github.com/jackc/pgio v1.0.0 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
-	github.com/jackc/pgproto3/v2 v2.3.3 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
-	github.com/jackc/pgtype v1.14.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/k0kubun/pp v2.3.0+incompatible // indirect
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
